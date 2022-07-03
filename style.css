@@ -1,0 +1,52 @@
+* {
+    background-color: aqua;
+}
+
+
+
+/* Menu de navigation */
+
+header {
+    background-color: brown;
+    height: 200px;
+}
+
+.menu-nav {
+    background-color: #fff;
+    display: flex;
+    width: 100%;
+    height: 120px;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-nav img {
+    height: 80px;
+}
+
+.menu-nav a {
+    font-size: 1.5em;
+    text-decoration: none;
+    list-style: none;
+    padding: 15px;
+    margin: 0px 15px;
+}
+
+.menu-nav a:hover {
+    font-weight: 120px;
+    color: brown;
+    background-color: blueviolet;
+    transition: 0.3s;
+}
+
+/* INDEX */
+
+
+
+/* Section 1 */
+
+.indexSec1 {
+    background-color: black;
+    height: 1000px;
+    width: 120%;
+}
